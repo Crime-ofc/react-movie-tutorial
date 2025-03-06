@@ -2,6 +2,7 @@
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://crime-ofc.github.io/react-movie-tutorial/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
