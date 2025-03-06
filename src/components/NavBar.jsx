@@ -8,8 +8,8 @@ function NavBar() {
         <Link to="/">Movie App</Link>
       </div>
       <div className="navbar-links">
-        <Link to="/" className="nav-link">Home</Link>
-        <Link to="/favorites" className="nav-link">Favorites</Link>
+        <Link to="/react-movie-tutorial/" className="nav-link">Home</Link>
+        <Link to="/react-movie-tutorial/favorites" className="nav-link">Favorites</Link>
       </div>
     </nav>
   )
